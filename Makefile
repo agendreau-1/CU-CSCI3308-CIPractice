@@ -1,6 +1,7 @@
 # Andy Sayler
 # CI Practice
 # Summer 2014
+# Co-Author Alex Gendreau
 
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
