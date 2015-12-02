@@ -1,7 +1,9 @@
 language: c
 
+before_install: sudo apt-get install check
+
 sudo: required
 
 compiler: gcc
 
-script: make dep && make && make test
+script: make test
