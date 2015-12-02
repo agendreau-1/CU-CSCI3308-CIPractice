@@ -1,6 +1,6 @@
 language: c
 
-before_install: sudo apt-get install check
+before_install: sudo apt-get install check -y
 
 sudo: required
 
